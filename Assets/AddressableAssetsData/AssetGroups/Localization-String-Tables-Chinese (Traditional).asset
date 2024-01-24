@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Chinese (Traditional)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Chinese (Traditional)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7810846d1845b844fa69259757f8ff2d
+  m_SerializeEntries:
+  - m_GUID: 0796d1a3f10a4d846ad8ead5ae186038
+    m_Address: HH_InventoryItemsCollection_CH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-CH
+  - m_GUID: 60a72337be866824a961f05379c304ea
+    m_Address: HH_Mission_CH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-CH
+  - m_GUID: 36482357d7dc2f64f9bd92a3b06b00fc
+    m_Address: HH_TutorialDescription_CH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-CH
+  - m_GUID: 748b4f9e5f7584649b614292d1702e61
+    m_Address: HH_SideTip_CH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-CH
+  - m_GUID: 19ed5830c44e3d14a9e0f018bfef6691
+    m_Address: UITableCollection_CH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-CH
+  - m_GUID: 68eaf4fca0351484fb2d5dbb21e41283
+    m_Address: HH_WeaponCollection_CH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-CH
+  - m_GUID: d40e271c0d9472844aeafcd2408c3b23
+    m_Address: HH_AreaTitle_CH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-CH
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 9b92e4f04bdae1642b08c6469d8d77b2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1b2430601a27b6e40b1e1bf2616c12cb, type: 2}
+    - {fileID: 11400000, guid: 8c7a39c3efcdde24da8dee249e31e02a, type: 2}

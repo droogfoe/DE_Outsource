@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d87c6bffa551aa24f9250f0a9426ed75
+  m_SerializeEntries:
+  - m_GUID: 798ffd5c1d4c48143baf718b14cf97d3
+    m_Address: Assets/3.ProfileData/Localization/Collection/HH_InventoryItemsCollection
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 5e7bc02b96f74aa46aa31c6a51ed3efd
+    m_Address: Assets/3.ProfileData/Localization/Collection/HH_Mission Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 81e6708c1b1e60a47bccc5f9003f446f
+    m_Address: Assets/3.ProfileData/Localization/Collection/HH_TutorialDescription
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 4740fbca026b8944d9de5b904ce4b3d5
+    m_Address: Assets/3.ProfileData/Localization/Collection/HH_SideTip Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: c3ea136e07a1a944a9b6ad38d8e4e828
+    m_Address: Assets/3.ProfileData/Localization/Collection/UITableCollection Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 17448d8d5ec8bc34c9a012ca77a958bd
+    m_Address: Assets/3.ProfileData/Localization/Collection/HH_AreaTitleAsset Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: dce030b91b43c9940a7b29ded64ede34
+    m_Address: Assets/3.ProfileData/Localization/Collection/HH_WeaponCollection Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 36f752f3f3e4da34b9ae9948160d7907
+    m_Address: Assets/3.ProfileData/Localization/Collection/HH_AreaTitle Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 9b92e4f04bdae1642b08c6469d8d77b2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f9f6d8cc937f11644b45a66cff7a10d7, type: 2}
+    - {fileID: 11400000, guid: 2ea87050155abff4aa61f4304aa983fd, type: 2}

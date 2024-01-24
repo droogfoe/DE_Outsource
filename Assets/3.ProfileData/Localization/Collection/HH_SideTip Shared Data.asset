@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: HH_SideTip Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: HH_SideTip
+  m_TableCollectionNameGuidString: 4740fbca026b8944d9de5b904ce4b3d5
+  m_Entries:
+  - m_Id: 1935327232
+    m_Key: L0_S_T_Parry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104448
+    m_Key: L0_S_D_Parry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104449
+    m_Key: L0_S_T_LockOn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104450
+    m_Key: L0_S_D_LockOn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104451
+    m_Key: L0_S_T_Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104452
+    m_Key: L0_S_D_Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104453
+    m_Key: L0_S_T_Camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104454
+    m_Key: L0_S_D_Camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104455
+    m_Key: L0_S_T_Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104456
+    m_Key: L0_S_D_Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104457
+    m_Key: L0_S_T_Dash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104458
+    m_Key: L0_S_D_Dash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104459
+    m_Key: L0_S_T_LightCombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104460
+    m_Key: L0_S_D_LightCombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104461
+    m_Key: L0_S_T_HeavyCombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104462
+    m_Key: L0_S_D_HeavyCombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104463
+    m_Key: L0_S_T_UpperSlash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104464
+    m_Key: L0_S_D_UpperSlash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104465
+    m_Key: L0_S_T_AerialCleave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104466
+    m_Key: L0_S_D_AerialCleave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104467
+    m_Key: L0_S_T_Shooting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104468
+    m_Key: L0_S_D_Shooting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104469
+    m_Key: L1_S_T_Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104470
+    m_Key: L1_S_D_Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104471
+    m_Key: L1_S_T_ShikigamiGuide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104472
+    m_Key: L1_S_D_ShikigamiGuide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104473
+    m_Key: L1_S_T_Senbei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104474
+    m_Key: L1_S_D_Senbei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104475
+    m_Key: L1_S_T_BouncePoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104476
+    m_Key: L1_S_D_BouncePoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104477
+    m_Key: L1_S_T_GlassPetal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104478
+    m_Key: L1_S_D_GlassPetal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104479
+    m_Key: L1_S_T_Spring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104480
+    m_Key: L1_S_D_Spring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104481
+    m_Key: L1_S_T_SwordSurfPoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104482
+    m_Key: L1_S_D_SwordSurfPoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104483
+    m_Key: L1_S_T_SpeedUpRing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104484
+    m_Key: L1_S_D_SpeedUpRing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104485
+    m_Key: L1_S_T_ShikigamiKekkai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104486
+    m_Key: L1_S_D_ShikigamiKekkai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104487
+    m_Key: L1_S_T_MikoTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1952104488
+    m_Key: L1_S_D_MikoTime
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 859931988157267968
+  references:
+    version: 2
+    RefIds:
+    - rid: 859931988157267968
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1703764935609

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ba9511e6a2484d6459446b9d187e1d90
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GenSekiGothic TW TTF
+  fontNames:
+  - GenSekiGothic TW TTF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c64cd4843df6a22458a4ffa31dd1abc2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

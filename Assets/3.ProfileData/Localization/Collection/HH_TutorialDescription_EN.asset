@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HH_TutorialDescription_EN
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: EN
+  m_SharedData: {fileID: 11400000, guid: 81e6708c1b1e60a47bccc5f9003f446f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 45669930558472192
+    m_Localized: Fragment of the Life Crystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45681068717293568
+    m_Localized: Formed by the priestess's "wish" power, these crystal fragments
+      carry potent energy. Collecting three will automatically synthesize into a
+      complete "Life Crystal," permanently increasing HomuraHime's maximum HP.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609537
+    m_Localized: Hidden Challenge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609538
+    m_Localized: Each level may contain a small number of hidden challenges, completing
+      which may result in additional rewards. The count will be displayed during
+      the final level summary.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609539
+    m_Localized: Shooting & Shooting Shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45681068721487873
+    m_Localized: 'Shooting Shield
+
+      A shield that can only be broken by shooting
+      attacks, appearing as a blue spherical shape. Enemies will not take any damage
+      until the shooting shield is destroyed.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45681068721487872
+    m_Localized: 'Shooting
+
+      Pressing LT allows for shooting (ranged attacks),
+      and it is recommended to use lock-on. Please note that shooting itself has
+      an energy limit, and the energy consumption varies between different shooting
+      modes. When equipped with multiple shooting modes, you can use the directional
+      keys to switch the current mode.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609542
+    m_Localized: Summary & Rank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609543
+    m_Localized: 'Summary
+
+      At the end of each level or chapter, a comprehensive
+      evaluation is made based on combat performance, completion time, death count,
+      and more. Rewards and prizes are then given according to the results.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609544
+    m_Localized: 'Battle Rank
+
+      The rank class for each battle is determined
+      based on performance and the score obtained in that battle. The result is displayed
+      during the settlement and affects the overall evaluation.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609545
+    m_Localized: Miharashi Shrine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609546
+    m_Localized: One of the shrines managed by the divine messenger Ann, located
+      on a distant and isolated uninhabited rocky island with an unknown founder.
+      Therefore, it serves as a suitable outpost for mission preparations, state
+      adjustments, and rest, especially for the purpose of eliminating demons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609547
+    m_Localized: 'Miss Kushinada
+
+      A traveling merchant collaborating with the
+      shrine can use the currency and resources acquired during missions to purchase
+      various goods.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609548
+    m_Localized: Omamori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609549
+    m_Localized: General prayer items are tools used to enhance HomuraHime's abilities.
+      They can be purchased from merchants or obtained from specific chests and can
+      be equipped or swapped in the amulet slot within the menu. Up to three can
+      be equipped simultaneously within the total cost limit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609550
+    m_Localized: Confeito & Healing Item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609551
+    m_Localized: 'Confeito
+
+      A commonly used currency that can be used to purchase
+      various goods from Miss Kushinada. It is typically obtained by defeating demons,
+      from special chests, and through level settlements.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609552
+    m_Localized: 'Healing Item
+
+      An item used to restore HomuraHime''s HP, typically
+      obtained by defeating demons or from special jars.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609553
+    m_Localized: Attacks that can only be dodged
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609554
+    m_Localized: 'Bullet
+
+      A special spell used by demons and monsters, cannot
+      be parried, only evaded to the best extent possible.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609555
+    m_Localized: 'Unparriable Attacks
+
+      A special attack move marked by a golden
+      flash or golden indicator box, cannot be parried, only evaded to the best extent
+      possible.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609556
+    m_Localized: Special Mission - Kushinada's Head
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609557
+    m_Localized: A private commission proposed by Miss Kushinada upon the first meeting.
+      When she appears, a prompt will indicate her presence, and within the specified
+      time, you need to continuously chase Kushinada's head. Approach and use the
+      interaction button to capture her when she enters the "Roaming Phase." Successfully
+      capturing her will yield generous rewards during level settlements.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609558
+    m_Localized: Falling, dying, or exceeding the time limit during the pursuit will
+      result in mission failure. You can interact with the marker near the initial
+      encounter location to restart the mission.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609559
+    m_Localized: Gate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609560
+    m_Localized: A teleportation circle used to connect different spaces, typically
+      set up in advance by the staff of the shrine.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609561
+    m_Localized: Skill & Combo List
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609562
+    m_Localized: 'Skill
+
+      In battle, press RB + X / Y / A / B (depending on
+      the equipped slot) when the skill usage conditions are met.
+
+      You can
+      learn new skills from Miss Kushinada and check detailed skill descriptions
+      in the menu.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609563
+    m_Localized: 'Combo List
+
+      You can check the unlocked combos'' inputs and
+      detailed descriptions in the menu.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609564
+    m_Localized: Rage State & Domain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609565
+    m_Localized: 'Rage State
+
+      Some special demons or monsters enter a rage
+      state at specific HP levels and lock their HP. To unlock this state, you need
+      to withstand their powerful move "Jutsu" and pass through the "Domain" to deal
+      damage to them.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45669930604609566
+    m_Localized: 'Parry Domain
+
+      Some special demons or monsters possess unique
+      abilities. Typically, when you endure their powerful move "Jutsu," you enter
+      the parry domain. To dispel this effect and enter Miko Time, you need to successfully
+      parry all the moves within that area.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

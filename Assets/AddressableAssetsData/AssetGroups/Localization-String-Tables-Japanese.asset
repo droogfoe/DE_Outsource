@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Japanese
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Japanese
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 651c93dc9d7faf045b5a6aaff4ca204d
+  m_SerializeEntries:
+  - m_GUID: ec266677c8fd48d4b80a08783284b3f7
+    m_Address: HH_InventoryItemsCollection_JP
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-JP
+  - m_GUID: 3aa340e2626617f4e83726715b14b6af
+    m_Address: HH_Mission_JP
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-JP
+  - m_GUID: abe51ccc7d84b204c887a882383bbfbf
+    m_Address: HH_TutorialDescription_JP
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-JP
+  - m_GUID: 1bdfe421c4029ea4595eea6f8427a904
+    m_Address: HH_SideTip_JP
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-JP
+  - m_GUID: e6e99246033e0af47af6087487d53c76
+    m_Address: UITableCollection_JP
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-JP
+  - m_GUID: 62269bbdd9662b3419ba755f1e6bf334
+    m_Address: HH_WeaponCollection_JP
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-JP
+  - m_GUID: a3116cd4d2e778d42ba42459cf208f9d
+    m_Address: HH_AreaTitle_JP
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-JP
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 9b92e4f04bdae1642b08c6469d8d77b2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 89442077f4f741242b2481ea0c041446, type: 2}
+    - {fileID: 11400000, guid: 289efecf8eb6277468125591ad64722c, type: 2}

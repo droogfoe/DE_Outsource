@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HH_Mission_EN
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: EN
+  m_SharedData: {fileID: 11400000, guid: 5e7bc02b96f74aa46aa31c6a51ed3efd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 3111247872
+    m_Localized: Pick up the Katana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3140608000
+    m_Localized: Go to next room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3140608001
+    m_Localized: Cross training ground
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3140608002
+    m_Localized: Talk to Ann
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144802305
+    m_Localized: Use Upper Slash attack enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144802306
+    m_Localized: Use Aerial Cleave attack enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144802307
+    m_Localized: Dodge melee attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144802308
+    m_Localized: Dodge ranged attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144802309
+    m_Localized: Defeat aerial enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144802310
+    m_Localized: Defeat all enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2239586263752704
+    m_Localized: Use Heavy Attack Combo attack enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2448354992373760
+    m_Localized: Investigate the Hidden Realm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2448355030122496
+    m_Localized: Place the doll in a safe location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2448355030122497
+    m_Localized: Find beautiful flowers for the doll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2448355030122498
+    m_Localized: Secure the doll and flowers in a safe place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4389517103587328
+    m_Localized: Use Light Attack Combo attack enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4646777820725248
+    m_Localized: Explore the depths of the Hidden Realm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4646777866862592
+    m_Localized: Discover the source of the Hidden phenomenon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4971810686418944
+    m_Localized: Dispel the barrier in front of the living room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4971810732556288
+    m_Localized: Leave the residence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17301113352667136
+    m_Localized: Capture Miss Kushinada's head (?)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17301113398804480
+    m_Localized: Keep searching for the exit to Ikai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19586440704475136
+    m_Localized: Meet companions at the Miharashi Shrine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19586440759001088
+    m_Localized: Converge with Ann in front of the Grand Torii Gate
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

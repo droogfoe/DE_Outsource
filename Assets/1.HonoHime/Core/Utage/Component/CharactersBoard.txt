@@ -1,0 +1,297 @@
+{
+    "Characters": {
+        "keyData": [
+            "Ann",
+            "BoneSis",
+            "CursedDollA",
+            "CursedDollB",
+            "CursedDollC",
+            "HH",
+            "Koume_Human",
+            "Merchant",
+            "SSQ_PED",
+            "SSQA",
+            "SSQB",
+            "SSTA",
+            "SSTB",
+            "StaffSpirit",
+            "SystemInfantry",
+            "UtageBlock",
+            "Zombie"
+        ],
+        "valueData": [
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "安"
+                    },
+                    {
+                        "language": 1,
+                        "name": "Ann"
+                    },
+                    {
+                        "language": 2,
+                        "name": "安"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "亞雅紗"
+                    },
+                    {
+                        "language": 1,
+                        "name": "亞雅紗"
+                    },
+                    {
+                        "language": 2,
+                        "name": "亞雅紗"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "詛咒娃娃A"
+                    },
+                    {
+                        "language": 1,
+                        "name": "CursedDollA"
+                    },
+                    {
+                        "language": 2,
+                        "name": "詛咒娃娃A"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "詛咒娃娃B"
+                    },
+                    {
+                        "language": 1,
+                        "name": "CursedDollB"
+                    },
+                    {
+                        "language": 2,
+                        "name": "詛咒娃娃B"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "詛咒娃娃C"
+                    },
+                    {
+                        "language": 1,
+                        "name": "CursedDollC"
+                    },
+                    {
+                        "language": 2,
+                        "name": "詛咒娃娃C"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "炎姬"
+                    },
+                    {
+                        "language": 1,
+                        "name": "HonoHime"
+                    },
+                    {
+                        "language": 2,
+                        "name": "炎姬"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "小梅"
+                    },
+                    {
+                        "language": 1,
+                        "name": "Koume"
+                    },
+                    {
+                        "language": 2,
+                        "name": "小梅"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "櫛名田"
+                    },
+                    {
+                        "language": 1,
+                        "name": "Merchant"
+                    },
+                    {
+                        "language": 2,
+                        "name": "櫛名田"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "SSQ_PED"
+                    },
+                    {
+                        "language": 1,
+                        "name": "SSQ_PED"
+                    },
+                    {
+                        "language": 2,
+                        "name": "SSQ_PED"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "柴犬士兵A"
+                    },
+                    {
+                        "language": 1,
+                        "name": "SSQA"
+                    },
+                    {
+                        "language": 2,
+                        "name": "柴犬士兵A"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "柴犬士兵B"
+                    },
+                    {
+                        "language": 1,
+                        "name": "SSQB"
+                    },
+                    {
+                        "language": 2,
+                        "name": "柴犬士兵B"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "SSTA"
+                    },
+                    {
+                        "language": 1,
+                        "name": "SSTA"
+                    },
+                    {
+                        "language": 2,
+                        "name": "SSTA"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "SSTB"
+                    },
+                    {
+                        "language": 1,
+                        "name": "SSTB"
+                    },
+                    {
+                        "language": 2,
+                        "name": "SSTB"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "小精靈"
+                    },
+                    {
+                        "language": 1,
+                        "name": "StaffSpirit"
+                    },
+                    {
+                        "language": 2,
+                        "name": "小精靈"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "神宮人員"
+                    },
+                    {
+                        "language": 1,
+                        "name": "神宮人員"
+                    },
+                    {
+                        "language": 2,
+                        "name": "神宮人員"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "UtageBlock"
+                    },
+                    {
+                        "language": 1,
+                        "name": "UtageBlock"
+                    },
+                    {
+                        "language": 2,
+                        "name": "UtageBlock"
+                    }
+                ]
+            },
+            {
+                "localizes": [
+                    {
+                        "language": 0,
+                        "name": "???"
+                    },
+                    {
+                        "language": 1,
+                        "name": "???"
+                    },
+                    {
+                        "language": 2,
+                        "name": "???"
+                    }
+                ]
+            }
+        ]
+    }
+}

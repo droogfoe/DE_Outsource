@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: HH_AreaTitleAsset_EN
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: EN
+  m_SharedData: {fileID: 11400000, guid: 17448d8d5ec8bc34c9a012ca77a958bd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 14702788608
+    m_Localized: c02f0afb1d9480d4f9a1938183c50284[AreaTitle_L1_Adashino_1_EN]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17416503296
+    m_Localized: 9ab0f3b00d4ad1046a2e66f1258b0a67[AreaTitle_L1_OminousMansion_1_EN]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 724952241848320
+    m_Localized: cc54b4024813c7943becd4891d51b255[AreaTitle_L1_Adashino_2_EN]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22554525696
+    m_Localized: 64d2e3e9faf42c34c8f9f7d4330065c5[AreaTitle_L1_Ikai_1_EN]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725051902705664
+    m_Localized: 21a00425c9d14924787fb27688ef77ac[AreaTitle_L1_Adashino_3_EN]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1227924256243712
+    m_Localized: 26d0d7d01c86d324182ed87bfd58c786[AreaTitle_L0_Dojo_EN]
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

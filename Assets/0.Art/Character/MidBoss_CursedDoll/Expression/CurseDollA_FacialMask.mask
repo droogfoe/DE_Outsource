@@ -1,0 +1,497 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CurseDollA_FacialMask
+  m_Mask: 00000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: CursedDoll_face
+    m_Weight: 1
+  - m_Path: CursedDoll_weapon
+    m_Weight: 0
+  - m_Path: CursedDollA_body
+    m_Weight: 0
+  - m_Path: CursedDollA_hair
+    m_Weight: 0
+  - m_Path: CursedDollB_hair
+    m_Weight: 0
+  - m_Path: CursedDollC_hair
+    m_Weight: 0
+  - m_Path: CursedDollD_hair
+    m_Weight: 0
+  - m_Path: CursedDollRoot1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Footsteps
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      L Thigh
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      L Thigh/Bip001 L Calf
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      L Thigh/Bip001 L Calf/Bip001 L Foot
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001 L Toe0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001 L Toe0/Bip001 L Toe0Nub
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      R Thigh
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      R Thigh/Bip001 R Calf
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      R Thigh/Bip001 R Calf/Bip001 R Foot
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001 R Toe0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001 R Toe0/Bip001 R Toe0Nub
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 HeadNub
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/EyeL
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/EyeR
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/EyesCTRL
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/EyesCTRL/EyeTGTL
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/EyesCTRL/EyeTGTR
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairABL0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairABL0/HairABL1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairABL0/HairABL1/HairABL2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairABL0/HairABL1/HairABL2/HairABL3
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairABL0/HairABL1/HairABL2/HairABL3/HairABL4
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairABR0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairABR0/HairABR1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairABR0/HairABR1/HairABR2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairABR0/HairABR1/HairABR2/HairABR3
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairABR0/HairABR1/HairABR2/HairABR3/HairABR4
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairBBL0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairBBL0/HairBBL1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairBBL0/HairBBL1/HairBBL2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairBBL0/HairBBL1/HairBBL2/HairBBL3
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairBBL0/HairBBL1/HairBBL2/HairBBL3/HairBBL4
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairBBR0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairBBR0/HairBBR1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairBBR0/HairBBR1/HairBBR2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairBBR0/HairBBR1/HairBBR2/HairBBR3
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairBBR0/HairBBR1/HairBBR2/HairBBR3/HairBBR4
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairCBL0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairCBL0/HairCBL1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairCBR0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairCBR0/HairCBR1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairDBL0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairDBL0/HairDBL1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairDBR0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairDBR0/HairDBR1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairFL0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairFL0/HairFL1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairFM0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairFM0/HairFM1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairFR0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairFR0/HairFR1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairL0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairL0/HairL1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairL0/HairL1/HairL2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairR0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairR0/HairR1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/HairR0/HairR1/HairR2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotCDL0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotCDL0/KnotCDL1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotCDL0/KnotCDL1/KnotCDL2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotCDR0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotCDR0/KnotCDR1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotCDR0/KnotCDR1/KnotCDR2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotDL0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotDL0/KnotDL1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotDL0/KnotDL1/KnotDL2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotDR0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotDR0/KnotDR1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotDR0/KnotDR1/KnotDR2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotUL0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotUL0/KnotUL1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotUL0/KnotUL1/KnotUL2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotUR0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotUR0/KnotUR1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Hair_root/KnotUR0/KnotUR1/KnotUR2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger0/Bip001 L Finger01
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger0/Bip001 L Finger01/Bip001 L Finger0Nub
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger1/Bip001 L Finger11
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger1/Bip001 L Finger11/Bip001 L Finger1Nub
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger2/Bip001 L Finger21
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger2/Bip001 L Finger21/Bip001 L Finger2Nub
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger3
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger3/Bip001 L Finger31
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger3/Bip001 L Finger31/Bip001 L Finger3Nub
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger4
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger4/Bip001 L Finger41
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/Bip001 L Finger4/Bip001 L Finger41/Bip001 L Finger4Nub
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/WeaponL1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+      L Hand/WeaponL1/WeaponL2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/SleeveL0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/SleeveL0/SleeveL1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/SleeveL0/SleeveL1/SleeveL2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/SleeveL0/SleeveL1/SleeveL2/SleeveL3
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/SleeveL0/SleeveL1/SleeveL2/SleeveL3/SleeveL4
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger0/Bip001 R Finger01
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger0/Bip001 R Finger01/Bip001 R Finger0Nub
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger1/Bip001 R Finger11
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger1/Bip001 R Finger11/Bip001 R Finger1Nub
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger2/Bip001 R Finger21
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger2/Bip001 R Finger21/Bip001 R Finger2Nub
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger3
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger3/Bip001 R Finger31
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger3/Bip001 R Finger31/Bip001 R Finger3Nub
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger4
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger4/Bip001 R Finger41
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/Bip001 R Finger4/Bip001 R Finger41/Bip001 R Finger4Nub
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/WeaponR1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+      R Hand/WeaponR1/WeaponR2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/SleeveR0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/SleeveR0/SleeveR1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/SleeveR0/SleeveR1/SleeveR2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/SleeveR0/SleeveR1/SleeveR2/SleeveR3
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/SleeveR0/SleeveR1/SleeveR2/SleeveR3/SleeveR4
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/StrapBL0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/StrapBL0/StrapBL1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/StrapBL0/StrapBL1/StrapBL2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/StrapBR0
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/StrapBR0/StrapBR1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/StrapBR0/StrapBR1/StrapBR2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Skirt1
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Skirt1/Skirt2
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Skirt1/Skirt2/Skirt2R
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Skirt1/Skirt2/Skirt3
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Skirt1/Skirt2/Skirt3/Skirt3R
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Skirt1/Skirt2/Skirt3/Skirt4
+    m_Weight: 0
+  - m_Path: CursedDollRoot1/CursedDollRoot2/Bip001/Skirt1/Skirt2/Skirt3/Skirt4R
+    m_Weight: 0

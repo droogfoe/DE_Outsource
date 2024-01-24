@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: HH_Mission Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: HH_Mission
+  m_TableCollectionNameGuidString: 5e7bc02b96f74aa46aa31c6a51ed3efd
+  m_Entries:
+  - m_Id: 3111247872
+    m_Key: L0_S_GetWeapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3140608000
+    m_Key: L0_S_GotoNextRoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3140608001
+    m_Key: L0_S_CrossTrainingGround
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3140608002
+    m_Key: L0_S_TalkToAnn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144802305
+    m_Key: L0_S_UpStrikeAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144802306
+    m_Key: L0_S_DownStrikeAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144802307
+    m_Key: L0_S_DodgeMeleeAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144802308
+    m_Key: L0_S_DodgeRangedAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144802309
+    m_Key: L0_S_DefeatAerialEnemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144802310
+    m_Key: L0_S_DefeatAllEnemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2239586263752704
+    m_Key: L0_S_UseHeavyCombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2448354992373760
+    m_Key: L1_S_Investigate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2448355030122496
+    m_Key: L1_S_PlaceTheDoll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2448355030122497
+    m_Key: L1_S_FindFlower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2448355030122498
+    m_Key: L1_S_PlaceTheDollAndFlower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4389517103587328
+    m_Key: L0_S_UseNormalCombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4646777820725248
+    m_Key: L1_S_InvestigateTheDepths
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4646777866862592
+    m_Key: L1_S_LocateTheSource
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4971810686418944
+    m_Key: L1_S_RemoveEnchantment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4971810732556288
+    m_Key: L1_S_LeaveBuilding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17301113352667136
+    m_Key: L1_S_CatchTheHead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17301113398804480
+    m_Key: L1_S_LookingForTheIkaiExit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19586440704475136
+    m_Key: Hub_S_L1_Meet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19586440759001088
+    m_Key: Hub_S_L1_MeetupWithAnn
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3388355324004270080
+  references:
+    version: 2
+    RefIds:
+    - rid: 3388355324004270080
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1699611781688

@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: HH_AreaTitleAsset Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: HH_AreaTitleAsset
+  m_TableCollectionNameGuidString: 17448d8d5ec8bc34c9a012ca77a958bd
+  m_Entries:
+  - m_Id: 11938742272
+    m_Key: Hub_MapTitleAsset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14702788608
+    m_Key: L1_AreaTitleAsset_A1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17416503296
+    m_Key: L1_AreaTitleAsset_A2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22554525696
+    m_Key: L1_AreaTitleAsset_IKAI1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 724952241848320
+    m_Key: L1_AreaTitleAsset_A3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725051902705664
+    m_Key: L1_AreaTitleAsset_BossRoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1227924256243712
+    m_Key: L0_AreaTitleAsset_Dojo
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 463430064681779288
+  m_KeyGenerator:
+    rid: 463430064681779287
+  references:
+    version: 2
+    RefIds:
+    - rid: 463430064681779287
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1704780726100
+    - rid: 463430064681779288
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 14702788608
+          m_TableCodes:
+          - CH
+          - JP
+          - EN
+        - m_KeyId: 17416503296
+          m_TableCodes:
+          - CH
+          - JP
+          - EN
+        - m_KeyId: 22554525696
+          m_TableCodes:
+          - CH
+          - EN
+          - JP
+        - m_KeyId: 725051902705664
+          m_TableCodes:
+          - CH
+          - JP
+          - EN
+        - m_KeyId: 724952241848320
+          m_TableCodes:
+          - CH
+          - JP
+          - EN
+        - m_KeyId: 1227924256243712
+          m_TableCodes:
+          - EN
+          - JP
+          - CH
+        m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

@@ -1,0 +1,16 @@
+{
+    "name": "Opsive.Shared.Input.UnityInputSystem",
+    "references": [
+        "Unity.InputSystem",
+        "Opsive.Shared"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

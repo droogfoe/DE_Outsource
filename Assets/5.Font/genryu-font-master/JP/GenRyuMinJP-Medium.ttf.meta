@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: beb5641e5cd21dd4f8d7054cce0187cf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GenRyuMin JP TTF
+  fontNames:
+  - GenRyuMin JP TTF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0e4a7e91d831f0f4f8e12aea4b42c5dd, type: 3}
+  - {fileID: 12800000, guid: a6a0dfc5f06b2ad458d2061ee0ca5ba4, type: 3}
+  - {fileID: 12800000, guid: ac6b97389362e8742bf50e7be1742a46, type: 3}
+  - {fileID: 12800000, guid: a51ed75859346fc4996f8da302bb0251, type: 3}
+  - {fileID: 12800000, guid: bcdd57cc07fb66f4092d2c7dd718e5cd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

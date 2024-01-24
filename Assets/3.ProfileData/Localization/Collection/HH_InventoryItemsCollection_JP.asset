@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HH_InventoryItemsCollection_JP
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: JP
+  m_SharedData: {fileID: 11400000, guid: 798ffd5c1d4c48143baf718b14cf97d3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 316664211750912
+    m_Localized: "\u7B11\u984F123"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316664228528128
+    m_Localized: "\u5FAE\u7B11"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316660000000000
+    m_Localized: ShadowBlitz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32225320785534976
+    m_Localized: Quickly approach the enemy and perform an Iai strike.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32225320793923584
+    m_Localized: GaleBlade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32225320793923585
+    m_Localized: Throw a dagger at the enemy and instantly teleport next to them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32225320793923586
+    m_Localized: ComboA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32225320793923587
+    m_Localized: HomuraHime's Basic Combo A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32225320793923588
+    m_Localized: ComboB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32225320793923589
+    m_Localized: HomuraHime's Basic Combo B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32225320793923590
+    m_Localized: Goldstream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32225320793923591
+    m_Localized: After defeating enemies, the drop rate of gold candies increases.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32225320751980544
+    m_Localized: ShadowBlitz
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

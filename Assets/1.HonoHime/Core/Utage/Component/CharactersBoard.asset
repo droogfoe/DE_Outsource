@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39c2dd578dfde3a42ade877b60ae167f, type: 3}
+  m_Name: CharactersBoard
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Popup: Ann
+  json: {fileID: 4900000, guid: 4d5277ae1a439654b946b22e78e183c8, type: 3}
+  path: Assets/1.HonoHime/Core/Utage/Component/CharactersBoard.txt
+  CharacterDic:
+    Characters:
+      keyData:
+      - Ann
+      - BoneSis
+      - CursedDollA
+      - CursedDollB
+      - CursedDollC
+      - HH
+      - Koume_Human
+      - Merchant
+      - SSQ_PED
+      - SSQA
+      - SSQB
+      - SSTA
+      - SSTB
+      - StaffSpirit
+      - SystemInfantry
+      - UtageBlock
+      - Zombie
+      valueData:
+      - localizes:
+        - language: 0
+          name: "\u5B89"
+        - language: 1
+          name: Ann
+        - language: 2
+          name: "\u5B89"
+      - localizes:
+        - language: 0
+          name: "\u4E9E\u96C5\u7D17"
+        - language: 1
+          name: "\u4E9E\u96C5\u7D17"
+        - language: 2
+          name: "\u4E9E\u96C5\u7D17"
+      - localizes:
+        - language: 0
+          name: "\u8A5B\u5492\u5A03\u5A03A"
+        - language: 1
+          name: CursedDollA
+        - language: 2
+          name: "\u8A5B\u5492\u5A03\u5A03A"
+      - localizes:
+        - language: 0
+          name: "\u8A5B\u5492\u5A03\u5A03B"
+        - language: 1
+          name: CursedDollB
+        - language: 2
+          name: "\u8A5B\u5492\u5A03\u5A03B"
+      - localizes:
+        - language: 0
+          name: "\u8A5B\u5492\u5A03\u5A03C"
+        - language: 1
+          name: CursedDollC
+        - language: 2
+          name: "\u8A5B\u5492\u5A03\u5A03C"
+      - localizes:
+        - language: 0
+          name: "\u708E\u59EC"
+        - language: 1
+          name: HonoHime
+        - language: 2
+          name: "\u708E\u59EC"
+      - localizes:
+        - language: 0
+          name: "\u5C0F\u6885"
+        - language: 1
+          name: Koume
+        - language: 2
+          name: "\u5C0F\u6885"
+      - localizes:
+        - language: 0
+          name: "\u6ADB\u540D\u7530"
+        - language: 1
+          name: Merchant
+        - language: 2
+          name: "\u6ADB\u540D\u7530"
+      - localizes:
+        - language: 0
+          name: SSQ_PED
+        - language: 1
+          name: SSQ_PED
+        - language: 2
+          name: SSQ_PED
+      - localizes:
+        - language: 0
+          name: "\u67F4\u72AC\u58EB\u5175A"
+        - language: 1
+          name: SSQA
+        - language: 2
+          name: "\u67F4\u72AC\u58EB\u5175A"
+      - localizes:
+        - language: 0
+          name: "\u67F4\u72AC\u58EB\u5175B"
+        - language: 1
+          name: SSQB
+        - language: 2
+          name: "\u67F4\u72AC\u58EB\u5175B"
+      - localizes:
+        - language: 0
+          name: SSTA
+        - language: 1
+          name: SSTA
+        - language: 2
+          name: SSTA
+      - localizes:
+        - language: 0
+          name: SSTB
+        - language: 1
+          name: SSTB
+        - language: 2
+          name: SSTB
+      - localizes:
+        - language: 0
+          name: "\u5C0F\u7CBE\u9748"
+        - language: 1
+          name: StaffSpirit
+        - language: 2
+          name: "\u5C0F\u7CBE\u9748"
+      - localizes:
+        - language: 0
+          name: "\u795E\u5BAE\u4EBA\u54E1"
+        - language: 1
+          name: "\u795E\u5BAE\u4EBA\u54E1"
+        - language: 2
+          name: "\u795E\u5BAE\u4EBA\u54E1"
+      - localizes:
+        - language: 0
+          name: UtageBlock
+        - language: 1
+          name: UtageBlock
+        - language: 2
+          name: UtageBlock
+      - localizes:
+        - language: 0
+          name: ???
+        - language: 1
+          name: ???
+        - language: 2
+          name: ???

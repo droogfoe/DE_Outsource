@@ -435,8 +435,8 @@ namespace Utage
 				case IdEndPage:
 					return new AdvCommandEndPage(row);
 
-				case IdCustomCommand:
-					return new SampleAdvCommandDebugLog(row);
+				//case IdCustomCommand:
+				//	return new SampleAdvCommandDebugLog(row);
 
 				default:
 					return null;

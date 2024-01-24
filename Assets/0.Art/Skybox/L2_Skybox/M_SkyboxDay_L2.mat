@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5179445250229703554
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_SkyboxDay_L2
+  m_Shader: {fileID: -6465566751694194690, guid: 52d5f56f1ac51a4468b83df7838eb7bb,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _StarsBlack:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2D:
+        m_Texture: {fileID: 2800000, guid: 9c79340e1a1054275ba04070a27de306, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_67b4a76042b14a1abd74ee2e5ffef153_Out_0:
+        m_Texture: {fileID: 2800000, guid: bcc8c46e916e4544bb9656d0f497a86c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_a58839b4237b47a4a5d47949a658945c_Out_0:
+        m_Texture: {fileID: 2800000, guid: e799995dce58548d4982f7094860541e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2D_1:
+        m_Texture: {fileID: 2800000, guid: 58ee3d953f2ad1d4bb6dce9e0821b8c0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _CloudStep: 0.292
+    - _Cloud_Cutoff: 1.56
+    - _Cloud_Distance: 0.4
+    - _Cloud_Opacity: 0.497
+    - _Curve: 0.54
+    - _Curve2: 0.54
+    - _Expoment1: 3
+    - _Expoment2: 3
+    - _Float: 0.358
+    - _Heigh: 0.03
+    - _Height2: 0.01
+    - _Pow: 6
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RingOut: 0.05
+    - _Ringin: 0.0288
+    - _Star: 0
+    - _StarFadeout: 2.5
+    - _StarIntensity: 1
+    - _Sun: 0
+    - _SunEmmit: 5
+    - _SunExpo: 1
+    - _Tile1: 0.1
+    - _Tile2: 0.04
+    - _Y: 0.3
+    m_Colors:
+    - _Cloud1T_O: {r: 0.05, g: 0.05, b: 0.05, a: 0.04}
+    - _Cloud2T_O: {r: 0.02, g: 0.02, b: 0.1, a: 0.04}
+    - _CloudRimColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Cloud_Color: {r: 1, g: 0.23113209, b: 0.5658429, a: 0.24705882}
+    - _Cloud_Color2: {r: 0.8584906, g: 0.8584906, b: 0.8584906, a: 0.21960784}
+    - _Color: {r: 7.129738, g: 6.9367704, b: 3.4715478, a: 0}
+    - _Color1: {r: 0.49411762, g: 1, b: 0.9207185, a: 0}
+    - _Color2: {r: 1, g: 0.5254902, b: 0.8762816, a: 0}
+    - _Color3: {r: 1, g: 0.7914925, b: 0, a: 0}
+    - _Color_1: {r: 0.41037738, g: 0.8034593, b: 1, a: 0}
+    - _Color_2: {r: 1, g: 1, b: 1, a: 0}
+    - _Speed: {r: 0.01, g: 0.01, b: 0, a: 0}
+    - _SunColor: {r: 1, g: 1, b: 1, a: 0}
+    - _Tiling: {r: 0.05, g: 0.04, b: 0.05, a: 0.02}
+    - _Vector4: {r: 0.05, g: 0.05, b: 0.04, a: 0.04}
+  m_BuildTextureStacks: []
